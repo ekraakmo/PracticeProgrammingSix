@@ -1,4 +1,4 @@
-package kraakmo.learninghowtojava.waitawhile;
+package kraakmo.learninghowtojava.practiceprogrammingsix;
 
 public class WaitAWhile {
     public static void main(String[] args) {
